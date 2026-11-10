@@ -1,0 +1,4 @@
+path	relation	target	note
+decisions/vermont-supreme-court/1999/726-A-2d-42.md	same-decision-as	decisions/vermont-supreme-court/1999/169-Vt-529.md	the same decision in another reporter (726 A.2d 42 and 169 Vt. 529), same day and text (similarity 1.00); both kept
+decisions/vermont-supreme-court/1999/726-A-2d-86.md	same-decision-as	decisions/vermont-supreme-court/1999/169-Vt-553.md	the same decision in another reporter (726 A.2d 86 and 169 Vt. 553), same day and text (similarity 0.99); both kept
+decisions/vermont-supreme-court/2016/155-A-3d-169.md	same-decision-as	decisions/vermont-supreme-court/2016/203-Vt-183.md	the same decision in another reporter (155 A.3d 169 and 203 Vt. 183), same day and text (similarity 1.00); both kept
